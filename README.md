@@ -7,16 +7,16 @@
 
 ## Function
 * Open planner
-Date and Time appear at the top
-Planner organized by time 9am - 5pm
-Each hour you may enter text
-Once you click save, data is saved in local storage
-once refreshed, text area is cleared
-However, previous data still saved in local storage
-planner interactive by hour
-expectation is gray if past hour
-red if present
-green if future
+* Date and Time appear at the top
+* Planner organized by time 9am - 5pm
+* Each hour you may enter text
+* Once you click save, data is saved in local storage
+* Once refreshed, text area is cleared
+* However, previous data still saved in local storage
+* Planner interactive by hour
+  * Expectation is gray if past hour
+  * Red if present
+  * Green if future
 ## Screen Shot of Function
 
 Displays entry, color, and application/local storage.
